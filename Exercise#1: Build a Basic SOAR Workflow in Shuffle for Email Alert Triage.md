@@ -1,4 +1,4 @@
-# 🛠️ Exercise: Build a Basic SOAR Workflow in Shuffle for Email Alert Triage
+# 🛠️ Exercise#1: Build a Basic SOAR Workflow in Shuffle for Email Alert Triage
 
 ## 🎯 Objective
 Automate the triage of phishing email alerts using Shuffle by parsing the email, enriching indicators, and creating a case.
